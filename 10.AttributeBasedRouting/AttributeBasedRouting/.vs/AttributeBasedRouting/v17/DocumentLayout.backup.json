@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\10.attributebasedrouting\\attributebasedrouting\\attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\10.attributebasedrouting\\attributebasedrouting\\attributebasedrouting\\views\\home\\myhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\views\\home\\myhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\10.attributebasedrouting\\attributebasedrouting\\attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\10.attributebasedrouting\\attributebasedrouting\\attributebasedrouting\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7977CD-1270-4F27-903E-863E989848DF}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Views\\Home\\Info.cshtml",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Views\\Home\\Info.cshtml",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Views\\Home\\Info.cshtml",
+              "RelativeToolTip": "AttributeBasedRouting\\Views\\Home\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:54:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Program.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Program.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Program.cs",
+              "RelativeToolTip": "AttributeBasedRouting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:45:56.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Myhome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Views\\Home\\Myhome.cshtml",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Views\\Home\\Myhome.cshtml",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Views\\Home\\Myhome.cshtml",
+              "RelativeToolTip": "AttributeBasedRouting\\Views\\Home\\Myhome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:45:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\10.AttributeBasedRouting\\AttributeBasedRouting\\AttributeBasedRouting\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "AttributeBasedRouting\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:44:13.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
