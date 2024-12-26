@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\11.Map methods for routing\\MapMethodRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7435B10-E553-4EF2-98EE-B43367D8B223}|MapMethodRouting\\MapMethodRouting.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\11.map methods for routing\\mapmethodrouting\\mapmethodrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7435B10-E553-4EF2-98EE-B43367D8B223}|MapMethodRouting\\MapMethodRouting.csproj|solutionrelative:mapmethodrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\11.Map methods for routing\\MapMethodRouting\\MapMethodRouting\\Program.cs",
+              "RelativeDocumentMoniker": "MapMethodRouting\\Program.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\11.Map methods for routing\\MapMethodRouting\\MapMethodRouting\\Program.cs",
+              "RelativeToolTip": "MapMethodRouting\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:53:51.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
