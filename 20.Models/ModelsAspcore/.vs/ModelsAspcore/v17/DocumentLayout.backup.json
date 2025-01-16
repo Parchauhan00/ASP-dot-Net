@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\20.models\\modelsaspcore\\modelsaspcore\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|solutionrelative:modelsaspcore\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\20.models\\modelsaspcore\\modelsaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|solutionrelative:modelsaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\20.models\\modelsaspcore\\modelsaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|solutionrelative:modelsaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\20.models\\modelsaspcore\\modelsaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|solutionrelative:modelsaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\20.models\\modelsaspcore\\modelsaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E351B891-2FAA-4D5F-A142-5803079CB5FE}|ModelsAspcore\\ModelsAspcore.csproj|solutionrelative:modelsaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ModelsAspcore\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Repository\\StudentRepository.cs*",
+              "RelativeToolTip": "ModelsAspcore\\Repository\\StudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:47:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ModelsAspcore\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Repository\\IStudent.cs*",
+              "RelativeToolTip": "ModelsAspcore\\Repository\\IStudent.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:44:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsAspcore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ModelsAspcore\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T00:10:51.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsAspcore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ModelsAspcore\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:10:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsAspcore\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\20.Models\\ModelsAspcore\\ModelsAspcore\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsAspcore\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:08:32.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

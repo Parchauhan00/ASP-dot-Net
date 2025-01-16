@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\22.pass_model_data_fron_controller_to_view\\modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\22.pass_model_data_fron_controller_to_view\\modeldatausingviewdata\\modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\prashant chauhan\\documents\\asp-dot-net\\22.pass_model_data_fron_controller_to_view\\modeldatausingviewdata\\modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420F7324-2913-49CC-A609-D13E6C1A467D}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T08:33:40.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ModelDataUsingViewData\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:33:20.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Prashant Chauhan\\Documents\\ASP-dot-Net\\22.Pass_Model_data_fron_controller_to_view\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:31:04.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
